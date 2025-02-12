@@ -1,0 +1,44 @@
+annotated-types @ file:///croot/annotated-types_1709542908624/work
+anyio @ file:///croot/anyio_1729121277521/work
+beanie==1.29.0
+certifi @ file:///croot/certifi_1738623731865/work/certifi
+cffi @ file:///croot/cffi_1736182485317/work
+click @ file:///croot/click_1698129812380/work
+cryptography @ file:///croot/cryptography_1732129644106/work
+dnspython @ file:///croot/dnspython_1703096966733/work
+email_validator @ file:///home/conda/feedstock_root/build_artifacts/email-validator-meta_1733300719943/work
+exceptiongroup @ file:///croot/exceptiongroup_1706031385326/work
+fastapi @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_fastapi_1738326226/work
+fastapi-cli @ file:///home/conda/feedstock_root/build_artifacts/fastapi-cli_1734302308128/work
+h11 @ file:///croot/h11_1706652277403/work
+httpcore @ file:///croot/httpcore_1706728464539/work
+httptools @ file:///croot/httptools_1732546866413/work
+httpx @ file:///croot/httpx_1723474802858/work
+idna @ file:///croot/idna_1714398848350/work
+Jinja2 @ file:///croot/jinja2_1737760107953/work
+lazy-model==0.2.0
+markdown-it-py @ file:///croot/markdown-it-py_1684279902645/work
+MarkupSafe @ file:///croot/markupsafe_1738584038848/work
+mdurl @ file:///opt/conda/conda-bld/mdurl_1659716024347/work
+motor==3.7.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic @ file:///croot/pydantic_1734736067156/work
+pydantic_core @ file:///croot/pydantic-core_1734726052986/work
+Pygments @ file:///croot/pygments_1684279966437/work
+pymongo==4.11.1
+python-dotenv @ file:///croot/python-dotenv_1669132557191/work
+python-multipart @ file:///home/conda/feedstock_root/build_artifacts/python-multipart_1734420773152/work
+PyYAML @ file:///croot/pyyaml_1728657952215/work
+rich @ file:///croot/rich_1732638981168/work
+rich-toolkit @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_rich-toolkit_1733750834/work
+shellingham @ file:///croot/shellingham_1669142169426/work
+sniffio @ file:///croot/sniffio_1705431295498/work
+starlette @ file:///home/conda/feedstock_root/build_artifacts/starlette_1737823930525/work
+toml==0.10.2
+typer==0.15.1
+typer-slim==0.15.1
+typing_extensions @ file:///croot/typing_extensions_1734714854207/work
+uvicorn @ file:///home/conda/feedstock_root/build_artifacts/uvicorn_1734292939144/work
+uvloop @ file:///croot/uvloop_1732545176183/work
+watchfiles @ file:///croot/watchfiles_1732647634404/work
+websockets @ file:///croot/websockets_1736541022633/work
