@@ -46,12 +46,35 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
 }
+
 button:hover {
   border-color: #646cff;
 }
+
+
+
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
+}
+
+.answer-button {
+  margin-right: 10px;
+}
+
+.answer-button:hover {
+  background-color: #383B40;
+  color: white;
+}
+
+.next-button {
+  margin-left: 20px;
+  background-color: #C8D7E6;
+}
+
+.next-button:hover {
+  background-color: #383B40;
+  color: white
 }
 
 @media (prefers-color-scheme: light) {
