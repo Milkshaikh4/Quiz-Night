@@ -1,6 +1,9 @@
-start: 
+start_backend: 
 	uvicorn backend.main:app --reload
 
+start_frontend: 
+	cd frontend && npm run dev
+	
 start_mongo:
 	sudo systemctl start mongod
 

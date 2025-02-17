@@ -27,7 +27,7 @@ const QuizScreen = () => {
   const handleNext = () => {
     if (selectedAnswer !== null) {
       if (question.answers[selectedAnswer].isCorrect) {
-        setScore((prevScore) => prevScore + 1);
+        setScore((prevScore) => prevScore + 100);
       }
 
       if (currentIndex + 1 < currentQuiz.questions.length) {
