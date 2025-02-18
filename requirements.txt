@@ -7,25 +7,34 @@ click @ file:///croot/click_1698129812380/work
 cryptography @ file:///croot/cryptography_1732129644106/work
 dnspython @ file:///croot/dnspython_1703096966733/work
 email_validator @ file:///home/conda/feedstock_root/build_artifacts/email-validator-meta_1733300719943/work
+environs==14.1.1
 exceptiongroup @ file:///croot/exceptiongroup_1706031385326/work
 fastapi @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_fastapi_1738326226/work
 fastapi-cli @ file:///home/conda/feedstock_root/build_artifacts/fastapi-cli_1734302308128/work
+fastapi_cors==0.0.6
 h11 @ file:///croot/h11_1706652277403/work
 httpcore @ file:///croot/httpcore_1706728464539/work
 httptools @ file:///croot/httptools_1732546866413/work
 httpx @ file:///croot/httpx_1723474802858/work
 idna @ file:///croot/idna_1714398848350/work
+iniconfig==2.0.0
 Jinja2 @ file:///croot/jinja2_1737760107953/work
 lazy-model==0.2.0
 markdown-it-py @ file:///croot/markdown-it-py_1684279902645/work
 MarkupSafe @ file:///croot/markupsafe_1738584038848/work
+marshmallow==3.26.1
 mdurl @ file:///opt/conda/conda-bld/mdurl_1659716024347/work
 motor==3.7.0
+packaging==24.2
+pluggy==1.5.0
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pydantic @ file:///croot/pydantic_1734736067156/work
 pydantic_core @ file:///croot/pydantic-core_1734726052986/work
 Pygments @ file:///croot/pygments_1684279966437/work
 pymongo==4.11.1
+pytest==8.3.4
+pytest-asyncio==0.25.3
+pytest-mock==3.14.0
 python-dotenv @ file:///croot/python-dotenv_1669132557191/work
 python-multipart @ file:///home/conda/feedstock_root/build_artifacts/python-multipart_1734420773152/work
 PyYAML @ file:///croot/pyyaml_1728657952215/work
@@ -35,6 +44,7 @@ shellingham @ file:///croot/shellingham_1669142169426/work
 sniffio @ file:///croot/sniffio_1705431295498/work
 starlette @ file:///home/conda/feedstock_root/build_artifacts/starlette_1737823930525/work
 toml==0.10.2
+tomli==2.2.1
 typer==0.15.1
 typer-slim==0.15.1
 typing_extensions @ file:///croot/typing_extensions_1734714854207/work
