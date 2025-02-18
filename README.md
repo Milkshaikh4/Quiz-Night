@@ -32,7 +32,7 @@ This project is a web-based quiz application built for an upcoming quiz night ev
 Ensure you have the following installed before proceeding:
 
 - [Node.js](https://nodejs.org/) (for frontend)
-- Conda (for backend environment management)
+- Conda (for backend environment management) optional you could install everything in your default python environment but that is not recommended
 - [MongoDB](https://www.mongodb.com/) (for database storage)
 
 ## Installation & Setup
