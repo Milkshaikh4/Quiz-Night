@@ -11,4 +11,4 @@ stop_mongo:
 	sudo systemctl stop mongod
 
 test:
-	pytest --cov=app tests/
+	pytest backend/tests/ -s --tb=short
