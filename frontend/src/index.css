@@ -68,6 +68,7 @@ button:focus-visible {
 }
 
 .next-button {
+  color: #1a1a1a;
   margin-left: 20px;
   background-color: #C8D7E6;
 }
